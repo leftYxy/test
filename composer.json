@@ -2,6 +2,7 @@
 	"name": "yaoxy/test",
 	"description": "result公共返回",
 	"minimum-stability": "dev",
+	"prefer-stable": true,
 	"license": "MIT",
 	"authors": [
 		{
